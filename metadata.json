@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Creative Studio",
+  "description": "An all-in-one AI-powered creative workspace for text generation, high-fidelity image creation, and natural text-to-speech synthesis using the latest Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
